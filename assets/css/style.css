@@ -21,6 +21,12 @@ header {
     background-color: #153866;
 }
 
+/* Header Logo */
+img {
+    height: 75px; 
+    width: 125px;
+}
+
 /* Main Content */
 main {
     background: url(../jose-mizrahi-AVZGjxcHVRA-unsplash.webp) no-repeat center center/cover;
