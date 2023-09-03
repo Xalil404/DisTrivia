@@ -61,6 +61,20 @@ main {
     border-radius: 15px;
 }
 
+/* Results Container */
+#result-container {
+    width: 75%;
+    background: #ffffff;
+    aspect-ratio: 100 / 45;
+    margin: auto; 
+    margin-top: 20px; 
+    border-radius: 15px;
+    text-align: center;
+    line-height: 1.7;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 /* Footer */
 footer {
     background-color: #153866;
