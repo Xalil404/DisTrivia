@@ -10,4 +10,9 @@ const questions = [
         choices: ["Toy Story", "Lion King", "Mulan", "Cinderella"],
         correctAnswer: "Toy Story"
       },  
+      {
+        question: "I will Make a Man Out of You is a song from which movie?",
+        choices: ["Mulan", "Toy Story", "Lion King", "Snow White"],
+        correctAnswer: "Mulan"
+      },  
 ];
