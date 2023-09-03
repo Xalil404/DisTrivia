@@ -52,3 +52,10 @@ footer {
     list-style-type: none; 
     font-size: 190%;
 }
+
+/* Styling of footer copyright */
+#copyright {
+    text-align: center;
+    font-family: sans-serif;
+    color: #ffffff; 
+}
