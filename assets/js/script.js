@@ -5,4 +5,9 @@ const questions = [
         choices: ["14", "18", "22", "30"],
         correctAnswer: "14"
       },  
+      {
+        question: "Which Disney movie has had the most sequels?",
+        choices: ["Toy Story", "Lion King", "Mulan", "Cinderella"],
+        correctAnswer: "Toy Story"
+      },  
 ];
