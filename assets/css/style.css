@@ -65,7 +65,15 @@ main {
 }
 
 #quiz-container button {
-    display: flex;
+    background-color: #153866;
+    color: white;
+    border-radius: 15px;
+    border-color: #153866;
+    width: 75%;
+    font-size: 15px; 
+    padding: 7px;
+    margin-top: 8px;
+    margin-bottom: 5px;
 }
 
 /* Results Container */
