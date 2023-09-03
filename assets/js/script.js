@@ -20,4 +20,9 @@ const questions = [
         choices: ["Mufasa", "Ariel", "Mulan", "Cruella de Vil"],
         correctAnswer: "Cruella de Vil"
       },  
+      {
+        question: "Who was the first Disney princess?",
+        choices: ["Sleeping Beauty", "Ariel", "Snow White", "Cinderella"],
+        correctAnswer: "Snow White"
+      },  
 ];
