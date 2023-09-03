@@ -52,7 +52,7 @@ main {
 }
 
 /* Quiz Container */
-#quizContainer {
+#quiz-container {
     width: 75%;
     background: #ffffff;
     aspect-ratio: 100 / 145;

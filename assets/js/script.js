@@ -61,3 +61,21 @@ const quizContainer = document.getElementById("quiz-container");
 const resultContainer = document.getElementById("result-container");
 const scoreElement = document.getElementById("score");
 const retryButton = document.getElementById("retry-button");
+
+// Function to Load Question 
+function loadQuestion() {
+    const question = questions[currentQuestion];
+    const questionElement = document.createElement("p");
+    questionElement.textContent = question.question;
+    quizContainer.appendChild(questionElement);
+
+    question.choices.forEach((choice) => {
+        const choiceButton = document.createElement("button");
+        choiceButton.textContent = choice;
+        choiceButton.addEventListener("click", () => checkAnswer(choice));
+        quizContainer.appendChild(choiceButton);
+    });
+}
+
+// Start the quiz
+loadQuestion();
