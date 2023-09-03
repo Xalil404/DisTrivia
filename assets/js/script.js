@@ -55,3 +55,9 @@ const questions = [
 // Track Quiz progress
 let currentQuestion = 0;
 let score = 0;
+
+// HTML DOM References 
+const quizContainer = document.getElementById("quiz-container");
+const resultContainer = document.getElementById("result-container");
+const scoreElement = document.getElementById("score");
+const retryButton = document.getElementById("retry-button");
