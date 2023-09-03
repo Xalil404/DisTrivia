@@ -19,6 +19,8 @@ body {
 /* Header */
 header {
     background-color: #153866;
+    box-shadow: 0 4px 4px #153866;
+    z-index: 99; 
 }
 
 /* Header Logo */
