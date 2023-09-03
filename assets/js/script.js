@@ -15,4 +15,9 @@ const questions = [
         choices: ["Mulan", "Toy Story", "Lion King", "Snow White"],
         correctAnswer: "Mulan"
       },  
+      {
+        question: "What character have both Glen Close and Emma Stone played?",
+        choices: ["Mufasa", "Ariel", "Mulan", "Cruella de Vil"],
+        correctAnswer: "Cruella de Vil"
+      },  
 ];
