@@ -35,4 +35,9 @@ const questions = [
         choices: ["The Little Mermaid", "Lion King", "Snow White", "Aladdin"],
         correctAnswer: "The Little Mermaid"
     },
+    {
+        question: "What year was Cinderella released?",
+        choices: ["1920", "1940", "1950", "1970"],
+        correctAnswer: "1950"
+    },
 ];
