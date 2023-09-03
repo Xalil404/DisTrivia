@@ -41,3 +41,14 @@ main {
 footer {
     background-color: #153866;
 }
+
+/* Styling of social networks icons */
+#social-networks {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding-bottom: 20px;  
+    list-style-type: none; 
+    font-size: 190%;
+}
