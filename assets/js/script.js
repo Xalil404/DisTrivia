@@ -100,3 +100,17 @@ function checkAnswer(choice) {
         retryButton.style.display = "block";
     }
 }
+
+// Reset Quiz
+function resetQuiz() {
+    currentQuestion = 0;
+    score = 0;
+    quizContainer.style.display = "block";
+    resultContainer.style.display = "none";
+    retryButton.style.display = "none";
+    quizContainer.innerHTML = "";
+    loadQuestion();
+}
+
+// Event listener to Reset Quiz
+retryButton.addEventListener("click", resetQuiz);
