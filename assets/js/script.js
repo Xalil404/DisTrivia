@@ -45,4 +45,9 @@ const questions = [
         choices: ["Gortimer Mouse", "Mortimer Mouse", "Dorfy Mouse", "Mortimy Mouse"],
         correctAnswer: "Mortimer Mouse"
     },
+    {
+        question: "Where is Disney's European theme park located?",
+        choices: ["London", "Berlin", "Paris", "Madrid"],
+        correctAnswer: "Paris"
+    }
 ];
