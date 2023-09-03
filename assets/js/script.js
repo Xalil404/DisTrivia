@@ -40,4 +40,9 @@ const questions = [
         choices: ["1920", "1940", "1950", "1970"],
         correctAnswer: "1950"
     },
+    {
+        question: "Mickey Mouse was originally named what?",
+        choices: ["Gortimer Mouse", "Mortimer Mouse", "Dorfy Mouse", "Mortimy Mouse"],
+        correctAnswer: "Mortimer Mouse"
+    },
 ];
