@@ -30,4 +30,9 @@ const questions = [
         choices: ["Red", "Yellow", "Black", "Pink"],
         correctAnswer: "Yellow"
     },
+    {
+        question: "Scuttle stars in which movie?",
+        choices: ["The Little Mermaid", "Lion King", "Snow White", "Aladdin"],
+        correctAnswer: "The Little Mermaid"
+    },
 ];
