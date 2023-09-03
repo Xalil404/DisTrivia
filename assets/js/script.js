@@ -79,3 +79,24 @@ function loadQuestion() {
 
 // Start the quiz
 loadQuestion();
+
+// Check Answer Function
+function checkAnswer(choice) {
+    const correctAnswer = questions[currentQuestion].correctAnswer;
+    if (choice === correctAnswer) {
+        score++;
+    }
+    currentQuestion++;
+
+    if (currentQuestion < questions.length) {
+        // Load the next question
+        quizContainer.innerHTML = "";
+        loadQuestion();
+    } else {
+        // Display results and retry button
+        quizContainer.style.display = "none";
+        resultContainer.style.display = "block";
+        scoreElement.textContent = `You got ${score} out of ${questions.length} questions correct.`;
+        retryButton.style.display = "block";
+    }
+}
