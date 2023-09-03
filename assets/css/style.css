@@ -37,6 +37,20 @@ main {
     flex: 1 0 auto; 
 }
 
+/* Website Name & CTA Message */
+#intro {
+    width: 75%;
+    background: #ffffff;
+    aspect-ratio: 100 / 40;
+    margin: auto; 
+    text-align: center;
+    margin-top: 30px; 
+    line-height: 1.7;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+}
+
 /* Footer */
 footer {
     background-color: #153866;
