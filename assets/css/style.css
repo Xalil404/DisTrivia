@@ -64,6 +64,10 @@ main {
     line-height: 1.7;
 }
 
+#quiz-container button {
+    display: flex;
+}
+
 /* Results Container */
 #result-container {
     width: 75%;
