@@ -43,13 +43,13 @@ The DisTrivia website consists of 1 page which contains a trivia quiz with 10 qu
 * Should a user want to return to the very initial quiz question and restart it befor reaching the end of the quiz, they can click the logo in the upper left corner of the header which will take them back to the home page.
 
 
-<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1693828191/Project%201/Screenshot_2023-09-04_at_12.49.38_PM_mexbwl.png" width="auto" height="auto" alt="image of the DisTrivia website header and logo">
+<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1693828888/Project%201/Screenshot_2023-09-04_at_1.01.09_PM_pxvlio.png" width="auto" height="auto" alt="image of the DisTrivia website header and logo">
 
 ### Social Media Presence 
 * Should a user want to visit Disney's social media presence, in the footer has been included clickable links to their corporate website, instagram, twitter and Facebook pages.
 
 
-<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1693828281/Project%201/Screenshot_2023-09-04_at_12.51.09_PM_plrzlb.png" width="auto" height="auto" alt="image of the DisTrivia website footer with social media links">
+<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1693828907/Project%201/Screenshot_2023-09-04_at_1.01.18_PM_b0imic.png" width="auto" height="auto" alt="image of the DisTrivia website footer with social media links">
 
 ### Features Left to Implement
 * For an enhanced user experience, it would have been desireable to include several categories of quizes to choose from such as Disney History, Disney cartoons, Disney movies, Disney actors, etc....
