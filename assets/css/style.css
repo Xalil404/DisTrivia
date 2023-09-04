@@ -165,7 +165,7 @@ footer {
     
     /* Website Name & CTA Message */
     #intro {
-        margin-top: 15%;
+        margin-top: 10%;
     }
     
     /* Quiz Container */
@@ -192,7 +192,7 @@ footer {
     /* Quiz Container */
     #quiz-container {
         aspect-ratio: 100 / 60;
-        margin-bottom: 20%;
+        margin-top: 5%; 
         width: 50%;
       }
     /* Results Container */
@@ -205,8 +205,14 @@ footer {
 /* Media query: tablets (1280px and up) */
 @media  screen and (min-width: 1280px) {
 
+    /* Website Name & CTA Message */
+    #intro {
+        margin-top: 5%;
+    }
+    
     /* Quiz Container */
     #quiz-container {
         aspect-ratio: 100 / 40;
+        margin-top: 3%;
     }
 }
