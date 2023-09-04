@@ -137,3 +137,12 @@ footer {
     font-family: sans-serif;
     color: #ffffff; 
 }
+
+/* Media query: mobile phones (360px and up) */
+@media  screen and (min-width: 360px) {
+/* Quiz Container */
+#quiz-container {
+    aspect-ratio: 100 / 105;
+  }
+
+}
