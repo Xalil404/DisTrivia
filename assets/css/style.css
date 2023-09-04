@@ -66,7 +66,7 @@ main {
     padding-right: 3px; 
 }
 
-#quiz-container button {
+#quiz-container option buttons {
     background-color: #153866;
     color: white;
     border-radius: 15px;
@@ -94,6 +94,7 @@ main {
     padding-right: 3px; 
 }
 
+/* Retry Button */
 #retry-button, button {
     background-color: #153866;
     color: white;
@@ -104,6 +105,13 @@ main {
     padding: 7px;
     margin-top: 8px;
     margin-bottom: 5px;
+    
+}
+
+/* Retry Button Container */
+#retry-container {
+    display: flex;
+    justify-content: center;
 }
 
 /* Footer */
