@@ -106,7 +106,6 @@ main {
     padding: 7px;
     margin-top: 8px;
     margin-bottom: 5px;
-    
 }
 
 /* Retry Button Container */
@@ -174,6 +173,11 @@ footer {
         aspect-ratio: 100 / 45;
         margin-top: 10%;
       }
+    
+    /* Results Container */
+    #result-container { 
+        aspect-ratio: 100 / 30;
+}  
 }    
 
 /* Media query: tablets (992px and up) */
