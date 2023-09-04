@@ -146,3 +146,17 @@ footer {
   }
 
 }
+
+/* Media query: tablets (540px and up) */
+@media  screen and (min-width: 540px) {
+    
+    /* Website Name & CTA Message */
+#intro {
+    aspect-ratio: 100 / 20;
+      }
+    
+    /* Quiz Container */
+    #quiz-container {
+        aspect-ratio: 100 / 75;
+      }
+    }
