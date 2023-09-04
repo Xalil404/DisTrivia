@@ -92,6 +92,7 @@ main {
     padding-bottom: 10px;
     padding-left: 3px;
     padding-right: 3px; 
+    display: none;
 }
 
 /* Retry Button */
