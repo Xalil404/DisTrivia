@@ -60,6 +60,7 @@ The DisTrivia website consists of 1 page which contains a trivia quiz with 10 qu
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1694258619/Project%201/Screenshot_2023-09-09_at_12.23.18_PM_y1ighg.png" width="auto" height="auto" alt="image of site on three different browsers">
 
 * Manually tested the responsiveness of all pages on mobile devices, tablets and PC through the Chrome browser developer tools.
+<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1694259116/Project%201/Screenshot_2023-09-09_at_12.31.39_PM_vgczo6.png" width="auto" height="auto" alt="image of site on mobile and tablet devices">
 
 * HTML: No errors on all pages were returned when passing through the official W3C [HTML validator](https://validator.w3.org/).
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1693311884/Project%201/Screenshot_2023-08-29_at_1.24.02_PM_x92qwh.png" width="auto" height="auto" alt="image of the HTML validator results">
