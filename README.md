@@ -66,8 +66,8 @@ The DisTrivia website consists of 1 page which contains a trivia quiz with 10 qu
 * CSS: No errors were returned when passing through the official W3C [CSS validator](https://jigsaw.w3.org/css-validator/).
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1693311992/Project%201/Screenshot_2023-08-29_at_1.26.18_PM_f3ecdb.png" width="auto" height="auto" alt="image of the CSS validator results">
 
-* JavaScrip: When checking the code in [jshint validator](https://jshint.com/) with the following code snippet inputted at the top of the javascript code ("jshint.options": { "esversion": 6 },) 3 warnings are shown. Whithout the eversion:6 snippet, 14 warnings are shown.
-<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1693829737/Project%201/Screenshot_2023-09-04_at_1.14.30_PM_kqq4iz.png" width="auto" height="auto" alt="image of the Javascript validator results">
+* JavaScrip: When checking the code in [jshint validator](https://jshint.com/) with the following code snippet inputted at the top of the javascript code ("jshint.options": { "esversion": 6 },) 3 no warnings are shown. Whithout the eversion:6 snippet, 14 warnings are shown.
+<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1694257558/Project%201/jsh_roaqul.png" width="auto" height="auto" alt="image of the Javascript validator results">
 
 * The lighthouse report provided a good overall.    
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1693829866/Project%201/Screenshot_2023-09-04_at_1.17.34_PM_sravlb.png" width="auto" height="auto" alt="image of the lighthouse report results">
