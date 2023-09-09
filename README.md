@@ -57,6 +57,7 @@ The DisTrivia website consists of 1 page which contains a trivia quiz with 10 qu
 
 ## Testing
 * Manually tested all the pages and external links on the following browsers: Safar, Chrome & Firefox.
+<img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1694258619/Project%201/Screenshot_2023-09-09_at_12.23.18_PM_y1ighg.png" width="auto" height="auto" alt="image of site on three different browsers">
 
 * Manually tested the responsiveness of all pages on mobile devices, tablets and PC through the Chrome browser developer tools.
 
