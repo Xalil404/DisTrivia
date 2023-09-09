@@ -19,7 +19,7 @@ Prior to initiating the development of the DisTrivia website, wireframes were cr
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1693828552/Project%201/Screenshot_2023-09-04_at_12.55.11_PM_zs4sww.png" width="auto" height="auto" alt="image of the DisTrivia wireframes for Mobile">
 
 ## Features 
-The DisTrivia website consists of 1 page which contains a trivia quiz with 10 questions on Disney related themes and topics.
+The DisTrivia website consists of 1 page which contains a trivia quiz with 10 questions on Disney related themes and topics and at its completion lets the user know how many questions they answered correctly.
 
 ### Home page
 * The home page has two centered areas, one for the site description and one for the quiz area for a user to test their knowledge and initiate the quiz.
@@ -66,10 +66,10 @@ The DisTrivia website consists of 1 page which contains a trivia quiz with 10 qu
 * CSS: No errors were returned when passing through the official W3C [CSS validator](https://jigsaw.w3.org/css-validator/).
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1693311992/Project%201/Screenshot_2023-08-29_at_1.26.18_PM_f3ecdb.png" width="auto" height="auto" alt="image of the CSS validator results">
 
-* JavaScrip: When checking the code in [jshint validator](https://jshint.com/) with the following code snippet inputted at the top of the javascript code ("jshint.options": { "esversion": 6 },) 3 no warnings are shown. Whithout the eversion:6 snippet, 14 warnings are shown.
+* JavaScrip: When checking the code in [jshint validator](https://jshint.com/) with the following code snippet inputted at the top of the javascript code ("jshint.options": { "esversion": 6 },) no warnings are shown. However, whithout the eversion:6 snippet, 14 warnings are shown.
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1694257558/Project%201/jsh_roaqul.png" width="auto" height="auto" alt="image of the Javascript validator results">
 
-* The lighthouse report provided a good overall.    
+* The lighthouse report provided a good overall score.    
 <img src="https://res.cloudinary.com/dugcwv1mf/image/upload/v1693829866/Project%201/Screenshot_2023-09-04_at_1.17.34_PM_sravlb.png" width="auto" height="auto" alt="image of the lighthouse report results">
 
 
@@ -102,7 +102,7 @@ The live link can be found [here](https://xalil404.github.io/DisTrivia/).
 
 * [W3](https://www.w3schools.com/) , [Mozilla](https://developer.mozilla.org/) and the [Love Maths](https://xalil404.github.io/Love_Maths/) project were used for HTML, CSS and JavaScript code references.
 
-* [Online Converter](https://www.online-convert.com/) was used to convert homepage background image into a webp file.
+* [Online Converter](https://www.online-convert.com/) was used to convert the homepage background image into a webp file.
 
 * [Github](https://github.com/) for version control.
 
